@@ -3,7 +3,7 @@
 This repository contains an RL environment based on open-source game Gameplay
 Football. <br> It was created by the Google Brain team for research purposes.
 
-Useful links:
+Useful links:BAM OIDA!
 
 * __(NEW!)__ [GRF Kaggle competition](https://www.kaggle.com/c/google-football) - take part in the competition playing games against others, win prizes and become the GRF Champion!
 * [GRF Game Server](https://research-football.dev/) - challenge other researchers (replaced by GRF Kaggle competition, frozen ranking available).
